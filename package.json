@@ -1,0 +1,15 @@
+{
+  "name": "flightprice",
+  "version": "1.0.0",
+  "description": "A project to get different price info on flights and plan a cost reduced trip.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Andrew Farley",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.3",
+    "qpx-api": "^0.1.0"
+  }
+}
